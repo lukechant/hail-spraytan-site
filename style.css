@@ -1,10 +1,10 @@
 body {
-    background-color: #f3f3f3;
+    background-color: #2b59a4;
+    color: #fdd21c;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    color: #333;
     margin: 40px;
     padding: 0;
 }
@@ -15,4 +15,9 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 0 20px;
     padding: 0;
     text-align: left;
+}
+
+img {
+    max-width: 500px;
+    max-height: 500px;
 }
